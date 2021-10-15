@@ -1,0 +1,23 @@
+{
+  "name": "Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiiwi3666/Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiiwi3666/Bot/issues"
+  },
+  "homepage": "https://github.com/Kiiwi3666/Bot#readme",
+  "dependencies": {
+    "aoi.js": "^4.5.0"
+  }
+}
